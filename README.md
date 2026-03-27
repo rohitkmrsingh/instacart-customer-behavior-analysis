@@ -47,15 +47,15 @@ The Power BI dashboard includes:
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](image/image/Screenshot 2026-03-26 230345.png)
 
 ---
 
 ## Files in this repo
 
-- `notebooks/instacart_eda.ipynb` → EDA done in Python
+- `notebook/instacart_eda.ipynb` → EDA done in Python
 - `dashboard/instacart_dashboard.pbix` → Power BI dashboard
-- `images/dashboard.png` → dashboard screenshot
+- `image/image/Screenshot 2026-03-26 230345.png` → dashboard screenshot
 
 ---
 
